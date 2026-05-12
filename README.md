@@ -87,6 +87,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/3e-6o/3e-6o/main/bg.png" width="100%" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
