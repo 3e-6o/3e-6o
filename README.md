@@ -8,11 +8,11 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  
+
   <a href="mailto:rahaf.graphicd1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  
+
   <a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank">
     <img src="https://cdn.simpleicons.org/tiktok/white" height="40"/>
   </a>
@@ -20,31 +20,32 @@
 
 ---
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/3e-6o/3e-6o/main/bg.png" width="100%" />
 </p>
 
 # ✨ About Me
 
-أنا **رهف جميل**، مصممة جرافيك مبدعة أؤمن أن أي تصميم ناجح يبدأ بالشغف قبل المهارة.  
-أعمل على تطوير نفسي يوميًا في مجال التصميم والبرمجة، وأسعى لبناء مستقبل قوي يجمع بين:
+I am **Rahaf Jameel**, a passionate Graphic Designer and aspiring Front-End Developer based in Saudi Arabia.  
+I strongly believe that successful design begins with passion before skill.
 
-- 🎨 **الإبداع البصري**
-- 💻 **تطوير واجهات المواقع**
-- 🚀 **التعلم الذاتي المستمر**
+I continuously work on improving myself in both design and development, with the goal of building a strong creative and technical career that combines:
 
-أحب التفاصيل، أهتم جدًا بجودة العمل، وأعتبر كل تصميم فرصة لصناعة شيء له قيمة وتأثير حقيقي.
+- 🎨 Visual Creativity
+- 💻 Front-End Development
+- 🚀 Continuous Self-Learning
+
+I pay close attention to details, value high-quality work, and see every project as an opportunity to create meaningful and impactful visual experiences.
 
 ---
 
 # 🎨 What Makes Me Different?
 
-✨ أعمل على كل تصميم بشغف واهتمام بالتفاصيل  
-✨ أركز على جودة العمل أكثر من السرعة  
-✨ أتعلم البرمجة بشكل ذاتي بالكامل من الدورات ويوتيوب  
-✨ أحب تطوير نفسي باستمرار وعدم التوقف عند مستوى معين  
-✨ أؤمن أن الإبداع + الالتزام = نتائج قوية
+✨ Passion-driven approach to every project  
+✨ Strong attention to quality and visual details  
+✨ Self-taught developer constantly learning and improving  
+✨ Dedicated to personal and professional growth  
+✨ Belief that creativity and consistency create exceptional results
 
 ---
 
@@ -55,25 +56,27 @@
 </p>
 
 ### 📌 Current Skills
+
 - 🎨 Adobe Photoshop
 - 🎨 Canva Design
 - 🌐 HTML
 - 🎨 CSS
-- ⚡ Learning JavaScript
-- 🐍 Python Basics
+- ⚡ Currently Learning JavaScript
+- 🐍 Python Fundamentals
 - 🔧 GitHub & VS Code
 
 ---
 
 # 🚀 Current Journey
 
-حاليًا أعمل على تطوير نفسي كـ **Front-End Developer** مع الاستمرار في بناء هويتي كمصممة جرافيك.
+I am currently focused on developing my skills as a **Front-End Developer** while continuing to grow as a Graphic Designer.
 
-أقوم بتطبيق ما أتعلمه من خلال:
-- تصميم واجهات مواقع
-- كتابة أكواد HTML & CSS
-- بناء مشاريع تدريبية
-- تطوير ملف أعمال احترافي
+I actively apply what I learn through:
+
+- Designing website interfaces
+- Building responsive layouts with HTML & CSS
+- Creating practice-based coding projects
+- Developing a professional creative portfolio
 
 ---
 
@@ -81,13 +84,14 @@
 
 | Project | Description |
 |---|---|
-| 🎨 Graphic Design Portfolio | مجموعة أعمال تصميم احترافية للسوشيال ميديا والهوية البصرية |
-| 💻 Front-End Projects | مواقع وصفحات ويب قمت ببرمجتها وتطويرها |
-| ✨ Personal Brand Projects | أعمال تعكس أسلوبي الإبداعي وهويتي البصرية |
+| 🎨 Graphic Design Portfolio | Professional social media designs and branding projects |
+| 💻 Front-End Projects | Web interfaces and development practice projects |
+| ✨ Personal Brand Projects | Creative projects reflecting my visual identity and style |
 
 ---
 
 # 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
 </p>
@@ -102,11 +106,11 @@
 
 <p align="center">
   📧 rahaf.graphicd1@gmail.com <br>
+  📱 +966550349401 <br>
   🇸🇦 Saudi Arabia
 </p>
-
 ---
 
 <p align="center">
-  <i>"Design is not just how it looks... it's how it feels."</i> ✨
+  <i>"Design is not only about appearance — it's about creating experiences."</i> ✨
 </p>
